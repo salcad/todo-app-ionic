@@ -4,7 +4,7 @@
 
 - First you need to run Todo NestJS API on http://localhost:3000/api
 - Run command on console `yarn install` then run `ionic serve`
-- To show it in browser just type http://localhost:8001 
+- To show it in browser just type http://localhost:8100 
 
 ## Deploying Todo App as static page on Todo NestJS API
 
