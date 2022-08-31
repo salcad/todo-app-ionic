@@ -9,7 +9,7 @@
 ## Deploying Todo App as static page on Todo NestJS API
 
 - Build using `yarn run build`
-- Copy ionic output on `build` folder to the Todo API NestJS project on `client` folder
+- Copy ionic output on `build` folder to the [Todo API NestJS](https://github.com/salcad/todo-api-nestjs) project on `client` folder
 - To run it just type http://localhost:3000 in browser
 
 ## Technologies
